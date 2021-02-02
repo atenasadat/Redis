@@ -1,8 +1,8 @@
-<div dir="rtl">
 
 
 ![enter image description here](https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png)
 
+<div dir="rtl">
 
 # Redis
 
