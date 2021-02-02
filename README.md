@@ -1,12 +1,12 @@
 
 
 <p align="center" style="text-align:center" >
-  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis image"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png" alt="Redis image"/>
 </p>
 
-<center># Redis </center>
 
- <center> تهیه کنندگان : زینب احیایی - نرگس جاوید - آتنا ساقی </center>
+ <div style="text-align:center"> تهیه کنندگان : زینب احیایی - نرگس جاوید - آتنا ساقی </div>
+ 
 <div dir="rtl">
 
 ##  مقدمه 
