@@ -3,11 +3,11 @@
 
 <p align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="Redis image"/>
-</p>
 
 # Redis
 
 تهیه کنندگان : زینب احیایی - نرگس جاوید - آتنا ساقی
+</p>
 
 ##  مقدمه 
 
